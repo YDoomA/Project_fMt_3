@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539097387 source:/home/dooma/Programming/MyTona/3_test/main.cpp
+	<iostream>
+	<cmath>
+
